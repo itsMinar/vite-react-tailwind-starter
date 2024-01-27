@@ -1,16 +1,16 @@
 # Vite + React + TailwindCSS
 
-## When you use this template, make sure that you edit this README.md file.
+## When you use this template, make sure that you change the author name from package.json file and edit this README.md file.
 
 ### This template provides a minimal setup to get React with Tailwind CSS working in Vite with HMR and some ESLint rules.
 
 1. Clone this repository -
    ```sh
-   git clone https://github.com/itsMinar/vite-react-tailwind-boilerplate.git
+   git clone https://github.com/itsMinar/vite-react-tailwind-starter.git
    ```
 2. Go to the Directory -
    ```sh
-   cd vite-react-tailwind-boilerplate
+   cd vite-react-tailwind-starter
    ```
 3. Remove the git initialization (.git) file (don't use powershell) -
    ```sh
@@ -20,7 +20,7 @@
    ```sh
    npx npm-check-updates -u
    ```
-5. If any update available for dependencies -
+5. Install dependencies -
    ```sh
    npm install
    ```
