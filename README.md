@@ -16,11 +16,12 @@
    ```sh
    rm -rf .git*
    ```
-4. Check is there any updated dependencies available -
-   ```sh
-   npx npm-check-updates -u
-   ```
-5. Install dependencies -
+4. Install dependencies -
    ```sh
    npm install
+   ```
+5. Run the project:
+
+   ```bash
+   npm run dev
    ```
